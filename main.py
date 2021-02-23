@@ -1,3 +1,4 @@
+# Credits: https://www.udemy.com/course/100-days-of-code/
 from selenium import webdriver
 import time
 
